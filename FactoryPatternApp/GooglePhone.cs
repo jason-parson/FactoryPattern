@@ -11,6 +11,7 @@ namespace FactoryPatternApp
         {
             ConsoleLogging.PhoneBuildDialogue();
             Console.WriteLine("Building an Google phone!");
+            Console.WriteLine("Congatulations! Your phone has been completed");
         }
     }
 }

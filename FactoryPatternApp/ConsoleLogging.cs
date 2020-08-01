@@ -13,6 +13,7 @@ namespace FactoryPatternApp
             Thread.Sleep(1000);
             Console.WriteLine("Constructing build kit!");
             Thread.Sleep(1000);
+            
         }
     }
 }
